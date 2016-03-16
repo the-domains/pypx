@@ -1,0 +1,28 @@
+name: PYPX
+favicon: null
+layout_spectrum: 0.9419568122830242
+typography_spectrum: 0.6384873308707029
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9365456958767027
+  lightness: 0.9683397603221238
+  saturation: 0.39201980107463896
+  rhythmicContrast: 0.2707160010468215
+purpose: []
